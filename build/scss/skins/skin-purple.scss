@@ -7,7 +7,7 @@
   //Navbar
   .main-header {
     .navbar {
-      @include navbar-variant($purple, #fff);
+      @include navbar-variant($white, $black);
       .sidebar-toggle {
         color: #fff;
         &:hover {
